@@ -181,5 +181,5 @@ This project is licensed under the [MIT License](LICENSE).
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, #12c2e9, #c471ed, #f64f59);">
 
 <p align="center">
-  Made with ❤️ by <strong>Axay Dombe</strong> | Powered by AI
+  Made with ❤️ by <strong>Akshay Kale</strong> | Powered by AI
 </p>
