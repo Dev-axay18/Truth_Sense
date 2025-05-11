@@ -48,9 +48,13 @@ TruthSense is an AI-driven news verification platform built for the modern web. 
 
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, #6a11cb, #2575fc);">
 
-## 🧪 Demo
+## 🧪 Screenshot 
 
-*Add a short screen recording or GIF showing your app in action!*
+*UI Interface*
+<div align="center">
+  <img src="https://github.com/Dev-axay18/Truth_Sense/blob/main/assets/Screenshot%202025-05-10%20200240.png" alt="Truth Sense Banner" />
+</div>
+
 
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, #00c6ff, #0072ff);">
 
