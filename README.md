@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://your-image-link.com/banner.png" alt="TruthSense Banner" width="80%">
+  ![Untitled  wwwwwww](https://github.com/user-attachments/assets/5aa60509-80b6-4dfc-b92e-de0616f1bf5a)
+
 </div>
 
 <h1 align="center">🧠 TruthSense - AI-Powered News Verification Platform 🧠</h1>
