@@ -1,6 +1,7 @@
 <div align="center">
-  [!(https://github.com/Dev-axay18/Truth_Sense/blob/main/assets/banner.png)
+  <img src="https://github.com/Dev-axay18/Truth_Sense/blob/main/assets/banner.png?raw=true" alt="Truth Sense Banner" />
 </div>
+
 
 <h1 align="center">🧠 TruthSense - AI-Powered News Verification Platform 🧠</h1>
 
