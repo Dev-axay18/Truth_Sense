@@ -1,6 +1,5 @@
 <div align="center">
- ![Truth Sense Banner](https://user-images.githubusercontent.com/your-id/banner-name.png)
-
+ https://github.com/Dev-axay18/Truth_Sense/issues/1#issue-3054818593
 </div>
 
 <h1 align="center">🧠 TruthSense - AI-Powered News Verification Platform 🧠</h1>
