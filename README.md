@@ -1,5 +1,5 @@
 <div align="center">
-  [![Truth Sense Banner](./assets/banner.png)](https://github.com/Dev-axay18/Truth_Sense/blob/main/assets/banner.png)
+  [!(https://github.com/Dev-axay18/Truth_Sense/blob/main/assets/banner.png)
 </div>
 
 <h1 align="center">🧠 TruthSense - AI-Powered News Verification Platform 🧠</h1>
