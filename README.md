@@ -1,5 +1,6 @@
 <div align="center">
-[ https://github.com/Dev-axay18/Truth_Sense/issues/1#issue-3054818593](https://private-user-images.githubusercontent.com/162922094/442485543-07001437-9bfa-4da8-b9fd-82ce0463487e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY5NTEwMjIsIm5iZiI6MTc0Njk1MDcyMiwicGF0aCI6Ii8xNjI5MjIwOTQvNDQyNDg1NTQzLTA3MDAxNDM3LTliZmEtNGRhOC1iOWZkLTgyY2UwNDYzNDg3ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMVQwODA1MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OGQwYjlhMmRiOTE3YTc4NDRiMjU3NzBhOGIyMzc5ZTk1YzlkMmRjNzQzY2ZkMTUzNzQ0MTRlZDRlY2ViMTA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wmywWoZGiO-jRGFy-wrnktUf2jOZgZlEQ7a35pC7v20)
+![image](https://github.com/user-attachments/assets/f448bbc7-04aa-45b4-80c6-fc46f20330f9)
+
 </div>
 
 <h1 align="center">🧠 TruthSense - AI-Powered News Verification Platform 🧠</h1>
