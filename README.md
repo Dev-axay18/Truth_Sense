@@ -1,6 +1,5 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/f448bbc7-04aa-45b4-80c6-fc46f20330f9)
-
+  
 </div>
 
 <h1 align="center">🧠 TruthSense - AI-Powered News Verification Platform 🧠</h1>
